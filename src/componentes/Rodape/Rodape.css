@@ -1,0 +1,23 @@
+.Rodape {
+    background-color: #6278f7;
+    color: #fff;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Rodape p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Rodape ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.Rodape ul li:last-child {
+    margin-right: 0;
+}
+
